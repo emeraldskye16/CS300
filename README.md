@@ -1,7 +1,7 @@
 # CS300
 What was the problem you were solving in the projects for this course?
 
-The main problem I was addressing in the projects for this course was the effective management and organization of course data. Specifically, the goal was to create a system that could easily load, store, and retrieve course information, including titles, course numbers, and prerequisite courses. By implementing a data structure that meets these requirements, I aimed to provide an efficient way to validate course prerequisites and to enable users to easily access course details.
+The main problem I was addressing in the projects for this course was the effective management and organization of course data. Specifically, the goal was to create a system that could easily load, store, and retrieve course information, including titles, course numbers, and prerequisite courses. By implementing a data structure that meets these requirements, I aimed to provide an efficient way to validate course prerequisites and to enable users to access course details easily.
 
 
 How did you approach the problem? Consider why data structures are important to understand.
